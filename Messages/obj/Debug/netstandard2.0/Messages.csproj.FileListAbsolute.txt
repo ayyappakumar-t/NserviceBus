@@ -1,0 +1,9 @@
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\bin\Debug\netstandard2.0\Messages.deps.json
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\obj\Debug\netstandard2.0\Messages.csprojAssemblyReference.cache
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\obj\Debug\netstandard2.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\obj\Debug\netstandard2.0\Messages.dll
+C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Messages\obj\Debug\netstandard2.0\Messages.pdb

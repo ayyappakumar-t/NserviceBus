@@ -1,0 +1,74 @@
+﻿2020-07-07 01:35:00.261 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 01:35:07.070 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 01:35:17.587 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 01:35:18.124 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 01:38:14.747 INFO  Initiating shutdown.
+2020-07-07 01:38:15.010 INFO  Shutdown complete.
+2020-07-07 01:38:49.046 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 01:38:49.513 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 01:39:05.034 INFO  Initiating shutdown.
+2020-07-07 01:39:05.083 INFO  Shutdown complete.
+2020-07-07 01:46:06.426 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 01:46:08.856 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 01:46:44.192 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 01:46:57.428 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 01:47:01.503 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 01:47:06.459 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 01:47:08.965 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:01:44.648 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 02:01:47.664 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 02:01:57.531 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:02:22.766 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:02:28.083 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:02:33.231 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:23:50.253 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 02:24:01.242 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 02:24:37.033 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:24:45.474 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:40:49.617 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 02:40:51.653 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 02:40:56.476 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:50:06.679 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 02:50:08.082 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 02:50:16.357 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:53:44.330 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 02:53:45.842 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 02:53:49.266 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 02:58:18.258 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 02:58:20.869 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 02:58:48.013 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 03:29:24.677 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 03:29:26.262 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 03:29:30.158 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 03:42:44.849 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 03:42:47.583 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 03:42:57.824 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 03:54:56.651 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 03:54:58.036 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 03:55:00.288 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:07:31.597 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 04:07:33.492 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 04:07:38.782 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:09:24.704 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:09:32.171 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:09:33.491 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:11:48.588 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 04:11:49.765 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 04:11:56.730 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:11:59.435 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:11:59.518 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:11:59.614 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:11:59.664 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:11:59.729 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:12:00.001 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:12:00.041 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:12:00.104 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:12:00.130 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:12:00.158 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:12:00.179 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:13:45.512 INFO  Logging to 'C:\Users\ayyappa\Source\repos\NserviceBus_WebApiSample\Endpoint\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-07 04:13:45.989 INFO  No valid license could be found. Falling back to trial license with start date '2020-06-30'.
+2020-07-07 04:13:58.006 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:13:58.745 INFO  "Receiver Web Api receives the message from sender"
+2020-07-07 04:14:40.352 INFO  Message received at endpoint, Here we need to Call Receiver Web API
+2020-07-07 04:14:40.449 INFO  "Receiver Web Api receives the message from sender"

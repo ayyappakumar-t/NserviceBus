@@ -1,0 +1,13 @@
+{
+  "NServiceBus.MessageId": "e6f46369-0332-4e97-bc87-abf00139b9c6",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "0806bc70-0e5e-4417-913b-abf00139b9ca",
+  "NServiceBus.CorrelationId": "e6f46369-0332-4e97-bc87-abf00139b9c6",
+  "NServiceBus.OriginatingMachine": "AYYAPPA-PC",
+  "NServiceBus.OriginatingEndpoint": "Sender",
+  "$.diagnostics.originating.hostid": "2d7f685b1ef168d067dd580ee5155c63",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "Messages.MyMessage, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.3.0",
+  "NServiceBus.TimeSent": "2020-07-06 19:02:14:775962 Z"
+}
